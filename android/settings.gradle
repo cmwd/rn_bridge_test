@@ -1,0 +1,3 @@
+rootProject.name = 'rnNativeModule'
+
+include ':app'
